@@ -1,3 +1,11 @@
 # Json2HTML
 Convert your Json data in HTML with ease.
-![image](https://github.com/m14r41/Json2HTML/assets/95265573/d196854d-499b-4f8f-b4a5-659c20591e58)
+
+## Requirement: Install json2html
+---
+
+```bash
+pip install json2html
+```
+
+![image](https://github.com/m14r41/Json2HTML/assets/95265573/2be6df3e-4fe1-4dfb-a46c-35ec69361dbd)
